@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @profviviane
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Ola meu nome e @profviviane
+- 👀 Eu estou aprendendendo atualmente a utilizar o GitHub
+- 🌱 tenho curiosidade em aprender mais
+- 💞️ Eu aceito colaboracao
+- 📫 voces podem entrar em contato pelo email viviane.nogueira@escola.pr.gov.br
 
 <!---
 profviviane/profviviane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
